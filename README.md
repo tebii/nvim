@@ -1,3 +1,3 @@
 # 💤 LazyVim
 
-My neovim config powered by LazyVim!
+My neovim config powered by LazyVim.
